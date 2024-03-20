@@ -1,0 +1,67 @@
+#titulo-principal{
+    color:darkmagenta;
+    text-align:"center";
+    margin:15;
+}
+
+h2{
+    color:darkorchid;
+}
+
+p{
+    color:#0a0aa1;
+}
+
+.titulo{
+    color:brown;
+    font-weight: bold;
+}
+
+.tarjeta{
+    border:10px;
+    background-color: #95d7e6;
+    text-align: center;
+    margin: 10px 115px;
+    padding: 15px;
+}
+
+.card{
+    border:5px solid #95d7e6;
+    text-align: center;
+    margin: 20px 115px;
+    padding: 15px;
+    display:-webkit-inline-box;
+}
+
+.in-card-1{
+    width: 300px;
+    height: 125px;
+    background-color: #12148d;
+    margin: 0px 20px 0px 20px;
+}
+
+.in-card-1 p{
+    color:white;
+}
+
+.in-card-2{
+    width: 300px;
+    height: 125px;
+    background-color: #1df6fd;
+    margin: 0px 20px 0px 20px;
+}
+
+.in-card-3{
+    width: 300px;
+    height: 125px;
+    background-color: #2afc7a;
+    margin: 0px 20px 0px 20px;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.director{
+    color:#920f0f;
+}
